@@ -19,7 +19,7 @@ Tujuan dari portofolio ini adalah memprediksi harga rumah berdasarkan kemampuan 
   6. Transformasi Data
   7. Feature Scalling
   
-## Model dan Evaluasi
+### Model dan Evaluasi
   8. Fitting Data dan Prediksi
   9. Evaluasi Kelayakan Model
     
